@@ -1,0 +1,86 @@
+/* 900px */
+@media (max-width: 56.25em) {
+  html {
+    font-size: 56.25%; /* 9px */
+  }
+
+  header {
+    height: 40vh;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  .btn {
+    padding: 1.7rem 2.7rem;
+  }
+
+  .number {
+    width: 14rem;
+  }
+
+  main {
+    display: flex;
+    flex-direction: column;
+    margin-top: 12rem;
+    gap: 8rem;
+    padding-bottom: 20rem;
+  }
+
+  .guess {
+    margin-top: 10rem;
+  }
+
+  .check {
+    padding: 2rem 3rem;
+  }
+
+  .right {
+    text-align: center;
+  }
+
+  .message {
+    margin-bottom: 3rem;
+  }
+
+  .label-score {
+    margin-bottom: 3rem;
+  }
+}
+
+/* 500px */
+@media (max-width: 31.25em) {
+  .between {
+    width: 100%;
+    left: 0;
+    text-align: center;
+  }
+
+  .again {
+    top: 6rem;
+    left: 50%;
+    transform: translate(-50%);
+  }
+
+  h1 {
+    font-size: 2rem;
+    line-height: 1.5;
+    margin-top: 5rem;
+    padding-bottom: 5rem;
+  }
+
+  .number {
+    padding: 2.5rem 0;
+    font-size: 5rem;
+    width: 12rem;
+  }
+
+  .message {
+    margin-bottom: 2rem;
+  }
+
+  .label-score {
+    margin-bottom: 2rem;
+  }
+}
