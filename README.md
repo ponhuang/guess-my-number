@@ -1,6 +1,6 @@
 This is a course project in JavaScript Course from Jonas
 
-<img src="guess-me-game-outlook">
+<img src="guess-me-game-outlook.png">
 
 / Game Intruction /
 
@@ -11,6 +11,6 @@ This is a course project in JavaScript Course from Jonas
 
 - If you guess the right answer, it will show the secret number and background turn to green color.
 
-<img src="guess-me-game-outlook-2">
+<img src="guess-me-game-outlook-2.png">
 
 Good luck :)
